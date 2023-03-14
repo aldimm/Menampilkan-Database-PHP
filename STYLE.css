@@ -1,0 +1,29 @@
+.table
+{
+    margin-top: 50px;
+    height: auto;
+    width: auto;
+}
+
+.h1
+{
+    margin-left : 670px;
+}
+
+.elipsP
+{
+    width : 275px;
+    height : 40px;
+    margin-left: 650px;
+    background-color: darkolivegreen;
+    border-radius: 5px;
+}
+
+.elipsC
+{
+    width : 318px;
+    height : 40px;
+    margin-left: 650px;
+    background-color:darksalmon;
+    border-radius: 5px;
+}
